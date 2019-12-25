@@ -1,5 +1,5 @@
 # Image-Classification
-This repository contains the code files to identify the presence of human beings in Earthquake debris images using CNN.
+This repository contains the code files to identify the presence of human beings in Earthquake debris images using CNN models.
 The dataset has been synthetically expanded using augmentation techniques - rotation, translation, rescaling, flipping, shearing, 
 stretching and adding random noise.
 
